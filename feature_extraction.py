@@ -22,9 +22,9 @@ from mne.time_frequency import psd_array_welch
 from pyriemann.estimation import Covariances
 from pyriemann.tangentspace import TangentSpace
 
-DATASET_ROOT = "/content/drive/MyDrive/1:1_Bhavya_Kottapalli/Data/ds004796-download" #data folder for eeg
-SUBJECTS_CSV = "/content/drive/MyDrive/1:1_Bhavya_Kottapalli/Processed_Data/subjects.csv" #output file from previous code blocks
-FEATURES_DIR = "/content/drive/MyDrive/1:1_Bhavya_Kottapalli/Processed_Data/Featurized_Data" #folder for features output of code saved
+DATASET_ROOT = " " #data folder for eeg
+SUBJECTS_CSV = " " #output file from previous code blocks
+FEATURES_DIR = " " #folder for features output of code saved
 
 # variables constants
 TMIN =  -0.2
